@@ -1,0 +1,7 @@
+{
+  "name": "Around",
+  "short_name": "Around",
+  "theme_color": "#448c74",
+  "background_color": "#ffffff",
+  "display": "standalone"
+}
